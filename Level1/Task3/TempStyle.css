@@ -1,0 +1,47 @@
+body{
+    width:100vw;
+    height: 100vh;
+    background-color:darkcyan;
+    display:grid;
+    place-items: center;
+}
+.Form{
+    height: 250px;
+    width: 500px;
+    background-color: aqua;
+    border-radius: 20px;
+}
+#tempcalc{
+    margin: 20px;
+}
+.Submit{
+    margin-top: 20px;
+    color:black;
+    padding: 8px 40px;
+    background-color: rgb(ju86, 230, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    border: 2px solid;
+}
+.Submit:hover, .Input:hover{
+    background-color: darkslategray;
+    color:cornflowerblue;
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+#resultContainer{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    /* padding-top: 2000px;
+    margin-top: 3000px; */
+    font-weight: bold;
+    color:darkgreen;
+    font-size:25px;
+}
+.Input{
+    padding: 5px 40px;
+    border-radius: 5px;
+    border: 2px solid;
+    font-weight: bold;
+}

@@ -1,0 +1,157 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: brown;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.font-bold{
+       font-weight:bolder;
+       font-size:1.3rem;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 2rem;
+}
+
+.my-2{
+    /* font-size:larger; */
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+.my-3{
+    margin-top: 30px;
+    margin-bottom: 25px;
+    font-size: 2rem;
+}
+
+.my-4{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.my-5{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.my-6{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.my-7{
+    margin-top: 26px;
+    margin-bottom: 16px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.px-3{
+    margin-left: 150px;
+}
+
+.px-4{
+      padding: 0 35px;
+}
+
+.text-aqua{
+    color:rgb(224 30 38);
+}
+
+.btn{
+    padding: 4px 12px;
+    border: 1px solid black;
+    color:darkslategray;
+    font-weight: bold;
+    background-color: rgb(224 30 38);
+    border-radius: 12px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: darkslategray;
+    color:cornflowerblue;
+}
+
+.btn2{
+    padding: 4px 12px;
+    border: 1px solid black;
+    color:silver;
+    font-weight: bold;
+    background-color: rgb(168 90 3);
+    border-radius: 12px;
+    cursor: pointer;
+}
+.btn2:hover{
+    background-color: darkslategray;
+    color:cornflowerblue;
+}
+
+.L1{
+    font-weight: bold;
+}
+.L1:hover{
+    font-size:large;
+    /* color:darkslategray; */
+    color: rgb(224 30 38);
+}
+
+.L2{
+    font-size: 1.2rem;
+    /* color: silver; */
+}
+
+.overflow-hidden{
+    overflow: hidden;
+    background-color: aqua;
+}
+
+.logo-size{
+    height: 50px;
+    width: 80px;
+    padding: 0;
+    margin-right: 0;
+}
+
+.dumbel-size{
+    height: 80px;
+    width: 150px;
+    align-self: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
